@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Evan%20Johnson%20%7C%20Frontend%20Developer&width=900&height=220&fontSize=48&textColor=%2338BDF8" />
+  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Evan%20Johnson%20%7C%20Frontend%20Developer&width=900&height=220&fontSize=56&textColor=%2300E5FF" />
 </p>
 
 
