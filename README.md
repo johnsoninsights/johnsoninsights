@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Evan%20Johnson%20%7C%20Frontend%20Developer&width=800&height=200" />
+  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Evan%20Johnson%20%7C%20Frontend%20Developer&width=900&height=220&fontSize=48&textColor=%2338BDF8" />
 </p>
+
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
