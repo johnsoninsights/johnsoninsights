@@ -1,4 +1,3 @@
-<!-- Header -->
 <h1 align="center">Hi, I'm Evan 👋</h1>
 <p align="center">
   <strong>Frontend Developer — React • Next.js • TypeScript • UI Engineering</strong>
@@ -19,35 +18,28 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tools & Technologies I Work With
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,nextjs,tailwind,git,github,figma,graphql,python,django,aws" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,scss,tailwind,git,github,figma,aws,python,django" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## ⌨️ What I Build
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=johnsoninsights&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="165"
-  />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=johnsoninsights&theme=tokyonight&hide_border=true" 
-    height="165"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&width=600&lines=Clean+Modern+UI;Responsive+Frontend+Experiences;React+%2B+Next.js+Engineering;Fast+Accessible+User+Interfaces;Pixel-Perfect+Figma+to+UI" />
 </p>
 
 ---
 
 ## 🚀 Current Focus
-- Building modern, scalable front‑end architectures  
-- Improving UI performance and accessibility  
-- Exploring AI‑assisted development workflows  
-- Creating polished, production‑ready components  
+<p align="center">
+  <img src="https://img.shields.io/badge/Building-Modern%20UI-0A0F1F?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Learning-AWS-0A0F1F?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Exploring-AI%20Workflows-0A0F1F?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
 ---
 
 ## 📫 Connect
-- Portfolio: *coming soon*  
-- GitHub: **@johnsoninsights**  
+- GitHub: **@johnsoninsights**
