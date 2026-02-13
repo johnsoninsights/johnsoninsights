@@ -1,5 +1,7 @@
+<h1 align="center">Hi, I'm Evan 👋</h1>
+
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Evan%20Johnson%20%7C%20Frontend%20Developer&width=900&height=220&fontSize=56&textColor=%2300E5FF" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=38BDF8&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%2B+Next.js+Engineer;UI+%2F+UX+Focused;Always+Building+Cool+Stuff" />
 </p>
 
 
@@ -21,8 +23,9 @@
 
 ## 🧰 Tools & Technologies I Work With
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,scss,tailwind,git,github,figma,aws,python,django" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,scss,tailwind,git,github,figma,aws,python,django&perline=8&theme=dark&size=60" />
 </p>
+
 
 ---
 
