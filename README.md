@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://readme-components.vercel.app/api?component=header&text=Evan%20Johnson&fontFamily=Inter&fontColor=FFFFFF&fontSize=60&backgroundColor=0A0F1F&animation=fadeIn" alt="Evan Johnson Header" />
-</p>
-
-<p align="center">
-  <img src="https://readme-components.vercel.app/api?component=header&text=Frontend%20Developer%20%E2%80%94%20React%20•%20Next.js%20•%20TypeScript&fontFamily=Inter&fontColor=38BDF8&fontSize=28&backgroundColor=0A0F1F&animation=fadeIn" alt="Frontend Developer Subtitle" />
+  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Evan%20Johnson%20%7C%20Frontend%20Developer&width=800&height=200" />
 </p>
 
 <p align="center">
