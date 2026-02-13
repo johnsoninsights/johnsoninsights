@@ -1,10 +1,13 @@
-<h1 align="center">Hi, I'm Evan 👋</h1>
 <p align="center">
-  <strong>Frontend Developer — React • Next.js • TypeScript • UI Engineering</strong>
+  <img src="https://readme-components.vercel.app/api?component=header&text=Evan%20Johnson&fontFamily=Inter&fontColor=FFFFFF&fontSize=60&backgroundColor=0A0F1F&animation=fadeIn" alt="Evan Johnson Header" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://readme-components.vercel.app/api?component=header&text=Frontend%20Developer%20%E2%80%94%20React%20•%20Next.js%20•%20TypeScript&fontFamily=Inter&fontColor=38BDF8&fontSize=28&backgroundColor=0A0F1F&animation=fadeIn" alt="Frontend Developer Subtitle" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
@@ -42,4 +45,5 @@
 ---
 
 ## 📫 Connect
+- Website: **https://evanjohnson.dev**  
 - GitHub: **@johnsoninsights**
